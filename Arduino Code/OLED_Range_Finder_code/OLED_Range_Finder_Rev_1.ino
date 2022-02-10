@@ -1,5 +1,4 @@
-// June 2019 - J.Morris
-// First used for WiRED 2019
+// June 2019 
 // Ultrasonic based range finder based on NANO. Has an 128 x 64 I2C OLED LCD display, buzzer, HC-04 U/S module.
 // 
 //Arduino IDE > Tools> select Nano. Select ATMega328p (old bootloader). Select the correct COM port. Select Programmer AVRISP mkII
